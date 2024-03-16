@@ -44,11 +44,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-
-.dockerignore
-
-.env
-.git
-.gitignore
-node_modules
-
